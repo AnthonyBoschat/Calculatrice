@@ -53,6 +53,12 @@
                 inset 3px 3px 4px rgba(244, 244, 244, 0.733);
 }
 
+.touch_line i:hover
+{
+    box-shadow: 3px 3px 10px black,
+                inset 3px 3px 4px rgba(244, 244, 244, 0.733);
+}
+
 .number:hover, .special_touch:hover
 {
     cursor:default;
